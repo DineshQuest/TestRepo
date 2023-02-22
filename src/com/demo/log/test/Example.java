@@ -22,7 +22,7 @@ public class Example {
        
         FileAppenderBuilder fileAppenderBuilder =new FileAppenderBuilder();
 //        fileAppenderBuilder.
-//        log.info("Hello this is an info message");
+        log.info("Hello this is an info message");
     }
 
 }
